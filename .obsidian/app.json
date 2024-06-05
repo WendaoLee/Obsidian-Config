@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./temp-pic",
+  "alwaysUpdateLinks": true
+}
